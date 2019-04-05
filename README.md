@@ -1,2 +1,1 @@
-# Trillo
-A landing page for a fictional booking site. 
+# Trillo---All-in-one-booking-site
